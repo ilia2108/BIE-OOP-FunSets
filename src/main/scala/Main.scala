@@ -1,3 +1,3 @@
 object Main{
-  def predicate():Boolean = true
+  def predicateOdd(x: Int):Boolean = x%2 != 0
 }
